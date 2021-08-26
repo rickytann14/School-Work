@@ -1,0 +1,10 @@
+bfscomp: main.o AdjMatrix.o BFS.o DFS.o
+	g++ -o bfscomp main.o AdjMatrix.o BFS.o DFS.o
+main.o: main.cpp
+	g++ -c main.cpp
+AdjMatrix.o: adjMatrix.h AdjMatrix.cpp
+	g++ -c AdjMatrix.cpp
+BFS.o: bfs.h BFS.cpp
+	g++ -c BFS.cpp
+DFS.o: DFS.h DFS.cpp
+	g++ -c DFS.cpp
