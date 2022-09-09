@@ -11,7 +11,7 @@ LinkedList::~LinkedList(){
 /// a certain item. If it's there, return a pointer to the previous
 /// list element. (If there are duplicates, use the first one.) 
 /// \param n [IN] Item to find.
-/// \param prev [OUT] Pointer to previous list element. NULL if there is none.
+/// \param prev [OUT] Pointer to previous list element. NULL iif there is none.
 /// \return true if n is in the list.
 
 bool LinkedList::Find(const int n, LinkedListElement*& prev){
