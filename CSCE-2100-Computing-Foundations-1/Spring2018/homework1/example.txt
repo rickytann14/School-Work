@@ -1,0 +1,3 @@
+lamp,guitar,bed,dog,cat,computer
+P1:bed,dog
+P2:lamp,guitar,bed,computer
