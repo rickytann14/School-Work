@@ -1,0 +1,9 @@
+ID|NAME|TYPE|STRONG_TO|WEAK_TO|
+57|Primeape|Fighting|Normal,Rock,Steel,Ice,Dark|Flying,Psychic,Fairy|
+39|Jigglypuff|Normal,Fairy|Fighting,Dragon,Dark|Poison,Steel|
+145|Zapdos|Electic,Flying|Fighting,Flying,Bug,Water|Rock,Ice|
+94|Gengar|Ghost,Poison|Grass,Psychic,Fairy|Ground,Ghost,Psychic,Dark|
+25|Pikachu|Electric|Flying,Water|Ground|
+70|Weepinbell|Grass,Poison|Water,Fairy|Flying,Fire,Psychic,Ice|
+148|Draonair|Dragon|Dragon|Ice,Dragon,Fairy|
+45|Vileplume|Grass,Poison|Water,Fairy|Flying,Fire,Psychic,Ice|

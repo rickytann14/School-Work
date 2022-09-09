@@ -1,0 +1,10 @@
+testpokemon.txt pokemon
+testtrainers.txt trainers
+
+INSERT((138|Porygon|Normal|Ghost|Fighting),pokemon)
+DELETE((138|*|*|*|*),pokemon)
+INSERT((137|Porygon|Normal|Ghost|Fighting),pokemon)
+UPDATE((668|Pyroar|Fire,Normal|Bug,Steel,Fire,Grass,Ice,Fairy|Fighting,Ground,Rock,Water),pokemon)
+SELECT((479|*|*|*|*),pokemon)
+SELECT((71|*|*|*|*),pokemon)
+WRITE()

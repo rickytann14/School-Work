@@ -1,0 +1,6 @@
+FIRSTNAME,LASTNAME
+FIRSTNAME,LASTNAME,AGE,BADGES_HELD,POKEMON_OWNED
+Ash|Ketchum|10|Boulder,Cascade,Thunder,Rainbow|Pikachu,Squirtle,Bulbasaur,Charmander
+Erika| |21|Boulder,Cascade,Rainbow|Tangela,Weepinbell,Gloom
+Agatha|Kikuko|65|Soul,Marsh,Volcano,Earth|Gengar,Golbat,Arbok
+Sabrina|Natsume|21|Marsha|Kadabra,Mr. Mime,Venomoth,Alakazam

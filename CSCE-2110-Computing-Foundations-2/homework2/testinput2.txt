@@ -1,0 +1,10 @@
+testpokemon.txt pokemon
+testtrainers.txt trainers
+
+INSERT((Blue|None|12|None|Pidgey,Geodude),trainers)
+UPDATE((Sabrina|Natsume|21|Marsh|Kadabra,Mr. Mime,Venomoth,Alakazam),trainers)
+DELETE((Brock|Harrison|*|*|*),trainers)
+DELETE((Agatha|Kikuko|*|*|*),trainers)
+SELECT((Erika| |*|*|*),trainers)
+SELECT((Sabrin|Natsume|21|Marsh|Kadabra,Mr. Mime,Venomoth,Alakazam),trainers)
+WRITE()

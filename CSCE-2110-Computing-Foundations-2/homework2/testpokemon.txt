@@ -1,0 +1,9 @@
+ID
+ID,NAME,TYPE,STRONG_TO,WEAK_TO
+145|Zapdos|Electic,Flying|Fighting,Flying,Bug,Water|Rock,Ice
+807|Zeraora|Electric|None|Ground
+770|Palossand|Ghost,Ground|Poison,Rock,Bug|Ghost,Water,Grass,Ice,Dark
+668|Pyrar|Fire,Normal|Bug,Steel,Fire,Grass,Ice,Fairy|Fighting,Ground,Rock,Water
+479|Rotom|Electric,Ghost|Ghost,Dark|Flyring,Poison,Bug,Steel,Electric
+298|Azurill|Normal,Fairy|Bug,Dark|Poison,Steel
+133|Eevee|Normal|None|Fighting

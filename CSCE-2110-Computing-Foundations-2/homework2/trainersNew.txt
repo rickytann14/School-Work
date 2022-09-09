@@ -1,0 +1,5 @@
+FIRSTNAME|LASTNAME|AGE|BADGES_HELD|POKEMON_OWNED|
+Misty|Yawa|10|Boulder,Cascade|Staryu,Starmi,Togepi,Magikarp|
+
+Ash|Ketchum|15|Boulder,Cascade,Thunder,Rainbow|Pikachu,Squirtle,Bulbasaur,Charmander|
+Samuel|Oak|47|Boulder,Cascade,Thunder,Rainbow,Soul,Marsh,Volcano|Squirtle,Bulbasaur,Charmander|
